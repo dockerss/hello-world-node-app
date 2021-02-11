@@ -1,1 +1,1 @@
-# hello-world-node-app
+# Sample hello-world-node-app
